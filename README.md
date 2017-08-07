@@ -1,11 +1,16 @@
-# car_control
-Control RC car with python and ATtiny USB development board.
+# RC Car Control
 
-We are controlling the following RC car bought from amazon:
-https://www.amazon.in/Mousepotato-Crawler-Monster-Truck-Green/dp/B01KADRQ62/ref=sr_1_1?s=toys&ie=UTF8&qid=1502116722&sr=1-1&keywords=RC+car
 
-With the help of the ATtiny based USB board.
-http://digistump.com/products/1
+Control RC car with python and **ATtiny** USB development board.
 
-Setup your machine using the following tutorial:
-http://digistump.com/wiki/digispark/tutorials/connecting
+
+## Setup
+
+###The Car
+We are controlling the following RC car bought from amazon
+
+![Car Screenshot](http://ecx.images-amazon.com/images/I/71BH6aklk0L._SL1500_.jpg)
+
+###The Development board
+We are using ATtiny85 USB development borad. To set up your environment follow the guidlines provided on the following link:
+http://www.electroschematics.com/12102/learn-to-use-attiny85-usb-mini-development-board/
